@@ -17,3 +17,4 @@
 # Eclipse
 .settings
 .project
+.DS_Store
